@@ -29,6 +29,6 @@ public class Triangle23 {
             i--;                      
         }
 
-        sc.close();
+        sc.close(); //triangle
     }
 }
