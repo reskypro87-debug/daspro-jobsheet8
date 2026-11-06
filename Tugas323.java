@@ -50,6 +50,6 @@ public class Tugas323 {
             System.out.println("Total barang seluruh toko: " + totalSemuaBarang);
             System.out.println("Toko dengan barang terbanyak: " + tokoTerbanyak);
         }
-        sc.close();
+        sc.close();//tugas323
     }
 }
