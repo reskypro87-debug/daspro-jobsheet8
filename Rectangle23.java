@@ -12,6 +12,6 @@ public class Rectangle23 {
  }
  System.out.println();
  }
- sc.close();
+ sc.close();  //rectangle
  }
 }
