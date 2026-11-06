@@ -48,6 +48,6 @@ public class NilaiKelompok23 {
             System.out.println("Kelompok terbaik    : " + kelompokTerbaik);
             System.out.println("Rata-rata tertinggi : " + rataTertinggi);
         }
-        sc.close();
+        sc.close(); //nilai kelompok
     }
 }
