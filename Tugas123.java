@@ -22,6 +22,6 @@ public class Tugas123 {
             }
             System.out.println("Total angka tercetak: " + total);
         }
-        sc.close();
+        sc.close(); //tugas123
     }
 }
