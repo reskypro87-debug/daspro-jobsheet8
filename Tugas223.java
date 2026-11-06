@@ -20,6 +20,6 @@ public class Tugas223 {
             }
             System.out.println("Jumlah seluruh angka: " + jumlah);
         }
-        sc.close();
+        sc.close(); //tugas223
     }
 }
